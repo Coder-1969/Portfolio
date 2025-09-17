@@ -83,7 +83,6 @@ Microsoft Visio
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/IBM%20MQ%20Developer%20Essentials-blue?style=for-the-badge&logo=ibm&logoColor=white" />
 </div>
