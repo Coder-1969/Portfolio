@@ -25,8 +25,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project                                         | Description         |
 |-----------------------------------------------|----------------------------|
-| Cybersecurity Project – Python Port Scanner          | Built a Python-based port scanner supporting TCP, UDP, Ping, and Stealth (SYN) scans. Added service & OS detection with CSV/TXT export. Benchmarked results against Nmap, showing awareness of vulnerability scanning and incident monitoring.|
+| <b>Cybersecurity Project – Python Port Scanner </b> [Port Scanner](https://github.com/Coder-1969/Port-Scanner)| Built a Python-based port scanner supporting TCP, UDP, Ping, and Stealth (SYN) scans. Added service & OS detection with CSV/TXT export. Benchmarked results against Nmap, showing awareness of vulnerability scanning and incident monitoring.|
 | Depot Management System (Java)         | Created a Java-based depot management system with authentication and role-based access control.|
+
 
 ## Tools
 Cybersecurity
