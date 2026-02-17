@@ -1,89 +1,18 @@
-# Hello, I'm Sahil Pathak
-<a href="https://www.linkedin.com/in/sahil-pathak004/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 💫 About Me:
+🔭 I’m currently working on:<br>SOC-style home lab projects (log monitoring, Splunk basics, endpoint hardening) and improving my Python security tools.<br><br>👯 I’m looking to collaborate on:<br>Cybersecurity projects (SOC detection rules, SIEM dashboards, threat hunting, Python automation).<br><br>🤝 I’m looking for help with:<br>Splunk queries (SPL), SOC alert triage, and building realistic incident response workflows.<br><br>🌱 I’m currently learning:<br>Splunk, MITRE ATT&CK mapping, SIEM fundamentals, incident response, and threat detection techniques.<br><br>💬 Ask me about:<br>Python port scanning, networking (TCP/IP, DNS, Wireshark), Linux security, vulnerability scanning, and digital forensics basics.<br><br>⚡ Fun fact:<br>I built my own Python port scanner with TCP/UDP/SYN stealth scanning and a Tkinter GUI as my final year project.
 
 
-Recent BSc (Hons) Computer Science with Cyber Security graduate from the University of Hertfordshire. Passionate about cybersecurity, problem-solving, and building secure applications.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil.1.9.6.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-pathak004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilpathak1969@gmail.com) 
 
-## Objective
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Coder-1969&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Coder-1969&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-1969&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
+[![](https://visitcount.itsvg.in/api?id=Coder-1969&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Microsoft Sentinel         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Academic & Development Projects
-
-
-| Project                                         | Description         |
-|-----------------------------------------------|----------------------------|
-| <b>Cybersecurity Project – Python Port Scanner </b> [Port Scanner](https://github.com/Coder-1969/Port-Scanner)| Built a Python-based port scanner supporting TCP, UDP, Ping, and Stealth (SYN) scans. Added service & OS detection with CSV/TXT export. Benchmarked results against Nmap, showing awareness of vulnerability scanning and incident monitoring.|
-| Depot Management System (Java)         | Created a Java-based depot management system with authentication and role-based access control.|
-
-
-## Tools
-Cybersecurity
-
-Wireshark
- – Network protocol analysis
-
-Kali Linux
- – Penetration testing distribution
-
-FTK Imager
- – Forensic imaging
-
-Microsoft Sentinel
- – Cloud-native SIEM & SOAR
-
-Development
-
-Python
- – Scripting & automation
-
-Java
- – Application development
-
-MySQL
- – Database management
-
-VS Code
- – IDE for coding & debugging
-
-Other
-
-Microsoft Visio
- – Network diagrams
- 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/IBM%20MQ%20Developer%20Essentials-blue?style=for-the-badge&logo=ibm&logoColor=white" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
